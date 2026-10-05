@@ -78,3 +78,4 @@ void loop()
     m = m + 1;
   }
 }
+<img width="830" height="686" alt="arduino Digital Clock using Arduino UNO without RTC Module" src="https://github.com/user-attachments/assets/5880b122-ab61-47c2-bd3e-3adc2662922b" />
