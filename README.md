@@ -1,6 +1,6 @@
 //Digital-Clock-using-Arduino
 //Digital Clock using Arduino UNO without RTC Module using C++ programming language.
-// C++ code
+// C++ CODE
 //digital clock using arduino uno without rtc module.
 
 #include <LiquidCrystal.h>
